@@ -2,7 +2,7 @@
 
 
 ## Aim
-To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its electrical characteristics, and study its transient response
+To design and simulate Y=(A+BC)' circuit using Synopsys EDA tools, analyze its electrical characteristics, and study its transient response.
 
 ## Tools Required
 
